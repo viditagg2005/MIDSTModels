@@ -1,10 +1,10 @@
 {
     "general": {
-        "data_dir": "/projects/aieng/midst_competition/data/tabddpm_new/clavaddpm_1",
+        "data_dir": "/projects/aieng/midst_competition/data/clavaddpm/clavaddpm_1",
         "exp_name": "clavaddpm_1",
-        "workspace_dir": "/projects/aieng/midst_competition/data/tabddpm_new/clavaddpm_1/workspace",
+        "workspace_dir": "/projects/aieng/midst_competition/data/clavaddmp/clavaddpm_1/workspace",
         "sample_prefix": "",
-        "test_data_dir": "/projects/aieng/midst_competition/data/tabddpm_new/clavaddpm_1"
+        "test_data_dir": "/projects/aieng/midst_competition/data/clavaddpm/clavaddpm_1"
     },
     "clustering": {
         "parent_scale": 1.0,
