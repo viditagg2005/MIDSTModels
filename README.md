@@ -1,4 +1,4 @@
-# MIDSTModels
+# MIDST Models
 
 Welcome to the Reference Implementations for the MIDST Challenge (Membership Inference over Diffusion-models-based Synthetic Tabular Data) - SaTML 2025!
 
