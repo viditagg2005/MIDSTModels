@@ -3,10 +3,10 @@ This folder contains starter kits that provide an overview of the MIDST competit
 
 | Starter Kit File              | CodaBench Competition       |
 |-------------------------------|-----------------------------|
-| blackbox_multi_table.ipynb    |                             |
-| blackbox_single_table.ipynb   |                             |
-| whitebox_multi_table.ipynb    |                             |
-| whitebox_single_table.ipynb   |                             |
+| blackbox_multi_table.ipynb    | Black Box Multi Table                            |
+| blackbox_single_table.ipynb   | Black Box Single Table                             |
+| whitebox_multi_table.ipynb    | White Box Multi Table                             |
+| whitebox_single_table.ipynb   | White Box Single Table                             |
 
 
 ## Environment Installation

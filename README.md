@@ -7,10 +7,12 @@ This repository provides code implementations and resources to support participa
 
 
 ## Repository Structure
-The midst_models directory is the main folder of this repository, containing implementations and resources for the MIDST Challenge. It is organized into the following subdirectories:
+The midst_models directory contains implementations and resources for the MIDST Challenge. It is organized into the following subdirectories:
 - multi_table_ClavaDDPM/: Contains code and resources for multi-table data synthesis using the ClavaDDPM model. This implementation is designed for generating synthetic data across multiple relational tables using diffusion-based generative models.
 - single_table_TabDDPM/:  Includes implementations for single-table data synthesis using the TabDDPM algorithm. This directory provides code, notebooks, and resources focused on applying TabDDPM to synthesize data from single-table datasets.
 - single_table_TabSyn/: Hosts the code and resources related to the TabSyn algorithm for single-table data synthesis. It contains notebooks and examples demonstrating how to use TabSyn for generating synthetic tabular data and evaluating its performance.
+
+The repository also contains a starter_kits directory that provides an overview of the MIDST competitions and outline how to package a submission to submit to CodaBench.
 
 ## Getting Started
 
