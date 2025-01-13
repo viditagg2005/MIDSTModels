@@ -139,6 +139,7 @@ def clava_synthesizing(table_names, relation_order, save_dir, all_group_lengths_
     for key in table_names:
         table_dir = os.path.join(
             configs['general']['workspace_dir'], 
+            configs['general']['exp_name'], 
             key, 
             f'{configs["general"]["sample_prefix"]}_final'
         )
@@ -151,6 +152,7 @@ def clava_synthesizing(table_names, relation_order, save_dir, all_group_lengths_
         for key in table_names:
             table_dir = os.path.join(
                 configs['general']['workspace_dir'], 
+                configs['general']['exp_name'], 
                 key, 
                 f'{configs["general"]["sample_prefix"]}_final'
             )
