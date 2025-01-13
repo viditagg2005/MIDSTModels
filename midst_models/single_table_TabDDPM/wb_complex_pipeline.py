@@ -404,12 +404,12 @@ def load_configs(config_path):
     configs = json.load(open(config_path, 'r'))
 
     save_dir = os.path.join(configs['general']['workspace_dir'], configs['general']['exp_name'])
-    # os.makedirs(save_dir, exist_ok=True)
-    # os.makedirs(os.path.join(save_dir, 'models'), exist_ok=True)
-    # os.makedirs(os.path.join(save_dir, 'before_matching'), exist_ok=True)
+    os.makedirs(save_dir, exist_ok=True)
+    os.makedirs(os.path.join(save_dir, 'models'), exist_ok=True)
+    os.makedirs(os.path.join(save_dir, 'before_matching'), exist_ok=True)
 
-    # with open(os.path.join(save_dir, 'args'), 'w') as file:
-    #     json.dump(configs, file, indent=4)
+    with open(os.path.join(save_dir, 'args'), 'w') as file:
+        json.dump(configs, file, indent=4)
 
     return configs, save_dir
 
