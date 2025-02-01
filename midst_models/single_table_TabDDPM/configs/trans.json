@@ -1,10 +1,10 @@
 {
     "general": {
-        "data_dir": "/projects/aieng/midst_competition/data/tabddpm/tabddpm_1",
+        "data_dir": "/home/vidit/Desktop/SaTML/MIDSTModels/midst_models/single_table_TabDDPM/tabddpm_test",
         "exp_name": "train_1",
-        "workspace_dir": "/projects/aieng/midst_competition/data/tabddpm/tabddpm_1/workspace",
+        "workspace_dir": "/home/vidit/Desktop/SaTML/MIDSTModels/midst_models/single_table_TabDDPM/tabddpm_test",
         "sample_prefix": "",
-        "test_data_dir": "/projects/aieng/midst_competition/data/tabddpm/tabddpm_1"
+        "test_data_dir": "/home/vidit/Desktop/SaTML/MIDSTModels/midst_models/single_table_TabDDPM/tabddpm_test"
     },
     "clustering": {
         "parent_scale": 1.0,
